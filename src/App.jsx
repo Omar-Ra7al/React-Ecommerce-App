@@ -21,7 +21,7 @@ const App = () => {
       <NavBar />
       <Routes>
         {/* This is the main content the frist component will show in the app*/}
-        <Route path="/" element={<Home />} />
+        <Route path="/" exact element={<Home />} />
         <Route path="/home" element={<Home />} />
 
         <Route path="/products" element={<Products />} />
