@@ -223,10 +223,12 @@ export default function NavBar(props) {
         </AppBar>
       </HideOnScroll>
       <div className={`nav-menu ${toggleNav ? "open" : ""}`}>
-        <IconButton onClick={closeNavMenu} aria-label="close">
-          <CloseIcon />
-        </IconButton>
-        <Cart />
+        <div className="container">
+          <IconButton onClick={closeNavMenu} aria-label="close">
+            <CloseIcon />
+          </IconButton>
+          <Cart />
+        </div>
       </div>
     </>
   );

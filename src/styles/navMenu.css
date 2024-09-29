@@ -12,10 +12,17 @@
   backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(100px);
   z-index: 1000;
-  /* overflow-y: scroll; */
-  /* scrollbar-width: none; */
+  overflow-y: scroll;
+  scrollbar-width: none;
   transition: 0.3s;
   box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5);
+}
+.nav-menu .container {
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(100px);
+  height: 100%;
+  width: 100%;
+  z-index: 10000;
 }
 .nav-menu.open {
   width: 50%;
