@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Glass White",
+    "category": "Accessories",
+    "image": "glass-white.jpg",
+    "description": "Premium white glass design.",
+    "description2": "This premium glass features a sleek and modern white finish, perfect for home decor or office settings. It’s durable, stylish, and adds a touch of elegance to any room.",
+    "price": 25.99,
+    "quantity": 10
+  },
+  {
+    "id": 2,
+    "name": "Gradient Beats",
+    "category": "Electronics",
+    "image": "gradint-beats.jpg",
+    "description": "Gradient Beats headphones with superior sound quality.",
+    "description2": "Experience music like never before with the Gradient Beats headphones. Featuring cutting-edge sound technology, they deliver deep bass and crystal-clear audio in a unique gradient design.",
+    "price": 199.99,
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "name": "Hard Contrast Laptop",
+    "category": "Electronics",
+    "image": "hard-constract-laptop.jpg",
+    "description": "Sleek, high-performance laptop with hard contrast design.",
+    "description2": "This laptop offers powerful performance with a stylish hard contrast design. Ideal for professionals and students alike, it features a high-resolution display and fast processing speeds.",
+    "price": 799.99,
+    "quantity": 3
+  },
+  {
+    "id": 4,
+    "name": "Hoodie",
+    "category": "Clothing",
+    "image": "hoodi.jpg",
+    "description": "Comfortable and stylish hoodie.",
+    "description2": "This hoodie is made from soft, breathable fabric, ensuring both comfort and style. Perfect for everyday wear or lounging at home.",
+    "price": 45.0,
+    "quantity": 15
+  },
+  {
+    "id": 5,
+    "name": "Pink Hoodie",
+    "category": "Clothing",
+    "image": "hoodi-pink.jpg",
+    "description": "Trendy pink hoodie with soft fabric.",
+    "description2": "A trendy, lightweight hoodie in pink, made from soft and durable fabric. Stay cozy while looking stylish in this must-have wardrobe item.",
+    "price": 49.99,
+    "quantity": 8
+  },
+  {
+    "id": 6,
+    "name": "Liquids",
+    "category": "Accessories",
+    "image": "liquieds.jpg",
+    "description": "Vibrant abstract liquid design.",
+    "description2": "This eye-catching abstract liquid design adds a modern and artistic vibe to any space. Its bright colors and flowing design make it a focal point in any room.",
+    "price": 15.0,
+    "quantity": 20
+  },
+  {
+    "id": 7,
+    "name": "Perfume Magic",
+    "category": "Fragrances",
+    "image": "perfum-majic.jpg",
+    "description": "Exquisite and enchanting fragrance.",
+    "description2": "A magical blend of enchanting aromas, Perfume Magic is perfect for those special occasions when you want to make a lasting impression.",
+    "price": 79.99,
+    "quantity": 7
+  },
+  {
+    "id": 8,
+    "name": "Pink Beats",
+    "category": "Electronics",
+    "image": "pink-beats.jpg",
+    "description": "Stylish pink Beats headphones.",
+    "description2": "The Pink Beats headphones combine iconic sound quality with a stylish design. Whether you’re working out or relaxing, these headphones offer a perfect listening experience.",
+    "price": 199.99,
+    "quantity": 4
+  },
+  {
+    "id": 9,
+    "name": "Premium Perfume",
+    "category": "Fragrances",
+    "image": "premuim-perfuim.jpg",
+    "description": "Top-tier premium fragrance for special occasions.",
+    "description2": "This premium perfume is crafted for those who seek a luxurious, long-lasting fragrance. Perfect for evening wear, its sophisticated aroma lingers throughout the day.",
+    "price": 99.99,
+    "quantity": 5
+  },
+  {
+    "id": 10,
+    "name": "Red Laptop",
+    "category": "Electronics",
+    "image": "red-lap.jpg",
+    "description": "Elegant red laptop for all your computing needs.",
+    "description2": "This high-performance laptop stands out with its elegant red design. Packed with powerful features, it’s the ideal choice for both professional and personal use.",
+    "price": 899.99,
+    "quantity": 2
+  },
+  {
+    "id": 11,
+    "name": "Row Hoodie",
+    "category": "Clothing",
+    "image": "row-hoddi.jpg",
+    "description": "Soft and cozy hoodie for daily wear.",
+    "description2": "This cozy hoodie is perfect for everyday wear, offering a combination of warmth and comfort. Its casual design makes it a great choice for all occasions.",
+    "price": 39.99,
+    "quantity": 12
+  },
+  {
+    "id": 12,
+    "name": "Shirts Pack",
+    "category": "Clothing",
+    "image": "shirts-2.jpg",
+    "description": "Pack of 2 high-quality shirts.",
+    "description2": "Get the best value with this pack of 2 high-quality shirts. Crafted for comfort and style, they are ideal for casual or semi-formal settings.",
+    "price": 35.0,
+    "quantity": 10
+  },
+  {
+    "id": 13,
+    "name": "Casual Shirt",
+    "category": "Clothing",
+    "image": "shrts.jpg",
+    "description": "Stylish casual shirt for everyday wear.",
+    "description2": "This casual shirt is perfect for everyday wear, offering a stylish and comfortable fit. It’s a versatile piece that pairs well with any outfit.",
+    "price": 29.99,
+    "quantity": 15
+  },
+  {
+    "id": 14,
+    "name": "Bright Laptop",
+    "category": "Electronics",
+    "image": "slight-brigth-laptop.jpg",
+    "description": "Bright and powerful laptop for multitasking.",
+    "description2": "Designed for those who need a bright and responsive laptop, this device offers outstanding multitasking performance, making it ideal for both work and play.",
+    "price": 999.99,
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "name": "Smile Hoodie",
+    "category": "Clothing",
+    "image": "smile-hodi.jpg",
+    "description": "Happy hoodie with smiley face design.",
+    "description2": "Spread positive vibes with the Smile Hoodie. Made from soft fabric, its unique smiley face design is sure to brighten up your day and everyone around you.",
+    "price": 49.99,
+    "quantity": 9
+  },
+  {
+    "id": 16,
+    "name": "Beats 2",
+    "category": "Electronics",
+    "image": "beats-2.jpg",
+    "description": "Second edition of Beats headphones with superior audio.",
+    "description2": "The Beats 2 headphones deliver premium sound quality with enhanced features for a superior listening experience. Their comfortable fit makes them perfect for long hours of use.",
+    "price": 249.99,
+    "quantity": 3
+  },
+  {
+    "id": 17,
+    "name": "White Beats",
+    "category": "Electronics",
+    "image": "beats-white.jpg",
+    "description": "Classic white Beats headphones.",
+    "description2": "These classic white Beats headphones are designed for sound lovers. With exceptional audio performance and a timeless look, they are perfect for any music enthusiast.",
+    "price": 199.99,
+    "quantity": 6
+  },
+  {
+    "id": 18,
+    "name": "Blue and Black Shoes",
+    "category": "Clothing",
+    "image": "blue-shoe-black.jpg",
+    "description": "Comfortable blue and black shoes.",
+    "description2": "Step out in comfort with these blue and black shoes, crafted from high-quality materials. Ideal for both casual wear and light exercise.",
+    "price": 75.0,
+    "quantity": 11
+  },
+  {
+    "id": 19,
+    "name": "Glass Black",
+    "category": "Accessories",
+    "image": "glass-black.jpg",
+    "description": "Black glass with sleek finish.",
+    "description2": "This black glass design exudes sophistication with its sleek finish. Perfect for modern spaces, it's both functional and decorative.",
+    "price": 80.98,
+    "quantity": 11
+  }
+]

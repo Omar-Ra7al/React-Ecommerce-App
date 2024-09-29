@@ -1,0 +1,45 @@
+.header-nav {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  backdrop-filter: blur(30px);
+}
+
+.home .welcome {
+  color: #fff;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.home .welcome h1 {
+  font-size: 50px;
+  margin: 0;
+}
+
+.home .imgs-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+
+.home .imgs-wrapper img {
+  max-width: 250px;
+  border-radius: 30px;
+  transition: 0.3s;
+}
+
+.home .imgs-wrapper img:hover,
+.home .shop-more button:hover {
+  scale: 1.03;
+  transform: rotate(1.5deg);
+}
+
+.home .shop-more {
+  text-align: center;
+  margin: 50px 0 0;
+}
+
+.home .shop-more button {
+  background: linear-gradient(135deg, #2c3e50, #4ca1af, #ffc0cb, #00bfff);
+  transition: 0.3s;
+}
