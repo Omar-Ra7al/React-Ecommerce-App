@@ -8,12 +8,12 @@
   width: 0;
   height: 100vh;
   padding-top: 70px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(100px);
   z-index: 1000;
-  overflow-y: scroll;
-  scrollbar-width: none;
+  /* overflow-y: scroll; */
+  /* scrollbar-width: none; */
   transition: 0.3s;
   box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5);
 }
